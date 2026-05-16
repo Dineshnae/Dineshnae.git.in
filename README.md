@@ -1,1 +1,21 @@
 📄 [Download my CV](./dinesh_cv_general_v3.pdf) 
+### Hi, I'm Dinesh 👋
+**Aerospace Engineer** | FEA · Flight Dynamics · CFD · V&V
+
+📍 Bengaluru, India  
+🎓 MSc Aerospace, University of Salford (UK) · BTech Aerospace, Karunya  
+🛠️ ANSYS · MATLAB/Simulink · XFLR5 · CATIA V5 · SolidWorks · Python
+
+📄 [Download my CV](./dinesh_cv_general_v3.pdf)  
+🔗 [LinkedIn](https://linkedin.com/in/dinesh-natarajan-baaa95206)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tools | Result |
+|---|---|---|
+| [Aircraft Flight Dynamics — Cessna 172](#) | MATLAB/Simulink | State-space 4-DOF · MIL-SPEC CAP verified |
+| [NLF Airfoil CFD](#) | XFLR5 | ~44% L/D improvement, ~42% drag reduction |
+| [Aircraft Engine Bracket FEA](#) | ANSYS | Topology opt · 12–15% mass reduction |
+| [Twin-boom UAV Design](#) | SolidWorks · XFLR5 | Sub-5kg MTOW · 0.5kg payload |
