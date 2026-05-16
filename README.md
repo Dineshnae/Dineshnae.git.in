@@ -19,3 +19,12 @@
 | [NLF Airfoil CFD](https://github.com/Dineshnae/nlf-airfoil-cfd-xflr5) | XFLR5 | ~44% L/D improvement, ~42% drag reduction |
 | [Aircraft Engine Bracket FEA](https://github.com/Dineshnae/engine-bracket-fea-ansys) | ANSYS | Topology opt · 12–15% mass reduction |
 | [Twin-boom UAV Design](https://github.com/Dineshnae/twin-boom-uav-design) | SolidWorks · XFLR5 | Sub-5kg MTOW · 0.5kg payload |
+
+---
+
+### 📜 Certifications
+
+| Certification | Issuer | Date | Verify |
+|---|---|---|---|
+| **Airbus Supply Chain Specialist** | Airbus Beyond | May 2026 | [📄 View](./certificates/airbus_supply_chain_specialist.pdf) |
+| **Master Diploma in Product Design** (CATIA V5 · SolidWorks · GD&T) | CADD Centre | Jan 2022 | [📄 View](./certificates/cadd_product_design_diploma.pdf) |
