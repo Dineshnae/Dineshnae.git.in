@@ -15,7 +15,7 @@
 
 | Project | Tools | Result |
 |---|---|---|
-| [Aircraft Flight Dynamics — Cessna 172](https://github.com/YOUR-USERNAME/aircraft-flight-dynamics-cessna172) | MATLAB/Simulink | State-space 4-DOF · MIL-SPEC CAP verified |
+| [Aircraft Flight Dynamics — Cessna 172](https://github.com/Dineshnae.git.in/aircraft-flight-dynamics-cessna172) | MATLAB/Simulink | State-space 4-DOF · MIL-SPEC CAP verified |
 | [NLF Airfoil CFD](https://github.com/YOUR-USERNAME/nlf-airfoil-cfd-xflr5) | XFLR5 | ~44% L/D improvement, ~42% drag reduction |
 | [Aircraft Engine Bracket FEA](https://github.com/YOUR-USERNAME/engine-bracket-fea-ansys) | ANSYS | Topology opt · 12–15% mass reduction |
 | [Twin-boom UAV Design](https://github.com/YOUR-USERNAME/twin-boom-uav-design) | SolidWorks · XFLR5 | Sub-5kg MTOW · 0.5kg payload |
